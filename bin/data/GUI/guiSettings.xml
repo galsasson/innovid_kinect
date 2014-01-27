@@ -1,0 +1,25 @@
+<Widget>
+    <Kind>44</Kind>
+    <Name>Far Threshold</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>44</Kind>
+    <Name>Erode Diff</Name>
+    <Value>2</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Flow Mag Threshold</Name>
+    <Value>3.020833492</Value>
+</Widget>
+<Widget>
+    <Kind>44</Kind>
+    <Name>Flow Blur</Name>
+    <Value>9</Value>
+</Widget>
+<Widget>
+    <Kind>44</Kind>
+    <Name>Kernel Size</Name>
+    <Value>3</Value>
+</Widget>
